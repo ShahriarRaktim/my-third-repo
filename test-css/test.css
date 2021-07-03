@@ -1,0 +1,57 @@
+h1{
+    color:red;
+    text-align: center;
+
+}
+
+h2{
+    color:crimson;
+    background-color: black;
+    margin: 50px 400px;
+    text-align: center;
+    border: rgb(255, 0, 0);
+    border-radius: 55%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: lime 9px solid;
+   font-weight: 500;
+}
+h3{
+    color: blue;
+    text-align: center;
+}
+span{
+    color: greenyellow;
+}
+small{
+    text-align: left;
+}
+.r{
+    color:red;
+}
+.g{
+    color:rgb(9, 9, 224);
+    
+}
+body{
+   background-color: black
+}
+strong{
+    color: gray;
+}
+div{
+    background-color: black;
+    margin-right: 1300px;
+    margin-left: 10px;
+    padding-left: 70px;
+    padding-right: 90px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border: 20px solid chartreuse;
+    border-radius: 35px;
+
+}
+img{
+    display: inline;
+    
+}
